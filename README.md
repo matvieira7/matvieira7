@@ -1,6 +1,5 @@
 ### OLÁ! Eu sou o Matheus Vieira
 - 🌱 Eu estou aprendendo desenvolvimento de sistemas
-- ⚡ Gosto mais do back-end,Banco de Dados 
 <div align="center">
   <a href="https://github.com/matvieira7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matvieira7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
