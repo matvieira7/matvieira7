@@ -7,9 +7,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matvieira7&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## 📊 Minhas Contribuições
-
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=matvieira7&theme=dark&hide_border=true)
+<div align="center">
+  <h2>📊 Minhas Contribuições</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matvieira7&theme=dark&hide_border=true"/>
+</div>
 
   
   <div style="display: inline_block"><br>
