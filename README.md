@@ -1,10 +1,16 @@
-### OLÁ! Eu sou o Matheus Vieira
-- 🌱 Eu estou aprendendo desenvolvimento de sistemas
+👋 Olá, eu sou o Matheus Vieira!
+🎓 Estudante de Desenvolvimento de Sistemas pela ETEC.
+💡 Apaixonado por tecnologia e sempre aprendendo algo novo
 <div align="center">
   <a href="https://github.com/matvieira7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matvieira7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matvieira7&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+## 📊 Minhas Contribuições
+
+![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=matvieira7&theme=dark&hide_border=true)
+
   
   <div style="display: inline_block"><br>
   <img align="center" alt="mat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
