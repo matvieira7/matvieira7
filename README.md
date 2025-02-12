@@ -1,6 +1,7 @@
 👋 Olá, eu sou o Matheus Vieira!
 
 🎓 Formado no ensino médio técnico de Desenvolvimento de Sistemas pela ETEC.
+
 🎓 Estudante no curso de tecnólogo em Dsenvolvimento de Softwares Multiplataforma pela FATEC.
 
 💡 Apaixonado por tecnologia e sempre aprendendo algo novo
