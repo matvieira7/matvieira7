@@ -2,7 +2,7 @@
 
 🎓 Formado no ensino médio técnico de Desenvolvimento de Sistemas pela ETEC.
 
-🎓 Estudante no curso de tecnólogo em Dsenvolvimento de Software Multiplataforma pela FATEC.
+🎓 Estudante no curso de tecnólogo em Desenvolvimento de Software Multiplataforma pela FATEC.
 
 💡 Apaixonado por tecnologia e sempre aprendendo algo novo
 <div align="center">
