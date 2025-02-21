@@ -14,8 +14,9 @@
 
 <div align="center">
   <h2>📊 Minhas Contribuições</h2>
-  <img src="https://streak-stats.demolab.com?user=matvieira7&theme=dark&hide_border=true&cache_seconds=86400" alt="Minhas Contribuições"/>
+  <img src="https://streak-stats.demolab.com?user=matvieira7&theme=dark&hide_border=true&cache_seconds=86400" alt="Minhas Contribuições" />
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="mat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
