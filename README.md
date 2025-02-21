@@ -14,7 +14,7 @@
 
 <div align="center">
   <h2>📊 Minhas Contribuições</h2>
-  <img src="https://streak-stats.demolab.com?user=matvieira7&theme=dark&hide_border=true&cache_seconds=86400"/>
+  <img src="https://streak-stats.demolab.com?user=matvieira7&theme=dark&hide_border=true&cache_seconds=86400" alt="Minhas Contribuições"/>
 </div>
 
 <div style="display: inline_block"><br>
