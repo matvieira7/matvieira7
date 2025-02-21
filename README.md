@@ -14,7 +14,7 @@
 
 <div align="center">
   <h2>📊 Minhas Contribuições</h2>
-  <img src="https://wakatime.com/badge/user/2fa4e69d-4050-4639-9255-06d0d28b73e2.svg" alt="Minhas Contribuições"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=matvieira7&show_icons=true&theme=dark&count_private=true&hide_title=true" alt="Minhas Contribuições"/>
 </div>
 
 <div style="display: inline_block"><br>
