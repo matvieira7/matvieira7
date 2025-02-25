@@ -14,7 +14,7 @@
 
 <div align="center">
   <h2>📊 Minhas Contribuições</h2>
-[![GitHub Streak](https://streak-stats.demolab.com/?matvieira7=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+ <img src="https://streak-stats.demolab.com?user=matvieira7&theme=dark" alt="Minhas Contribuições" />
 </div>
 
 
