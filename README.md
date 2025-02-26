@@ -14,7 +14,7 @@
 
 <div align="center">
   <h2>📊 Minhas Contribuições</h2>
-  <img src="https://github.com/matvieira7.png?size=100&v=4" alt="Perfil GitHub" />
+  <img src="https://contrib.rocks/images/github-contributions.svg" />
 </div>
 
 
