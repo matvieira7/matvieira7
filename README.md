@@ -14,7 +14,7 @@
 
 <div align="center">
   <h2>📊 Minhas Contribuições</h2>
-  <img src="https://streak-stats.demolab.com?user=matvieira7&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Minhas Contribuições" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matvieira7&theme=dark" alt="Estatísticas de Linguagens" />
 </div>
 
 
