@@ -14,7 +14,7 @@
 
 <div align="center">
   <h2>📊 Minhas Contribuições</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=matvieira7&show_icons=true&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=matvieira7&theme=dark&hide_border=true" alt="Minhas Contribuições" />
 </div>
 
 
