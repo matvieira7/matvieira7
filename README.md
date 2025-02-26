@@ -14,7 +14,7 @@
 
 <div align="center">
   <h2>📊 Minhas Contribuições</h2>
-  <img src="https://github-contributions-api.jeremydmiller.com/v2/graph?username=matvieira7&theme=dark&bg_color=transparent" alt="Minhas Contribuições" />
+  <img src="https://img.shields.io/github/commit-activity/y/matvieira7?style=flat&logo=github" alt="Minhas Contribuições" />
 </div>
 
 
