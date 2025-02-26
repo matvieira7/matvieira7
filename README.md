@@ -14,7 +14,7 @@
 
 <div align="center">
   <h2>📊 Minhas Contribuições</h2>
-  <img src="https://streak-stats.demolab.com?user=matvieira7&theme=dark&hide_border=true" alt="Minhas Contribuições" />
+  <img src="https://github-contributions-api.jeremydmiller.com/v2/graph?username=matvieira7&theme=dark&bg_color=transparent" alt="Minhas Contribuições" />
 </div>
 
 
