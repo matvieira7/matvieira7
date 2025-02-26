@@ -14,7 +14,7 @@
 
 <div align="center">
   <h2>📊 Minhas Contribuições</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matvieira7&theme=dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matvieira7&theme=dark" />
 </div>
 
 
