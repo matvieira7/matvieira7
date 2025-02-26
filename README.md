@@ -14,7 +14,7 @@
 
 <div align="center">
   <h2>📊 Minhas Contribuições</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matvieira7&theme=dark&hide_border=true" alt="Minhas Contribuições" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matvieira7&theme=radical&hide_border=true&date_format=j%20M%5B%2C%20Y%5D" alt="Minhas Contribuições" />
 </div>
 
 
